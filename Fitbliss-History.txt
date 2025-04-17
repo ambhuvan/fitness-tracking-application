@@ -1,0 +1,18 @@
+                          ---------- EXERCISE HISTORY ----------                          
+ 
+USERNAME             EXERCISE             DURATION        CALORIES        DATE            
+ 
+hello                Running              50              600             25-03-2025      
+hello                Cycling              80              960             25-03-2025      
+hello                Weight training      80              480             25-03-2025      
+hello                Tennis               200             1800            25-03-2025      
+hello                Volleyball           250             3000            25-03-2025      
+HELLO1               Tennis               200             1800            26-03-2025      
+HELLO1               Walking              20              80              26-03-2025      
+HELLO1               Running              50              600             26-03-2025      
+HELLO1               Stair climbing       90              630             26-03-2025      
+MAKARAND             Walking              70              280             26-03-2025      
+MAKARAND             Tennis               200             1800            26-03-2025      
+hello12345           Basketball           200             1800            01-04-2025      
+hello12345           Running              100             1200            01-04-2025      
+hello12345           Tennis               100             900             01-04-2025      
